@@ -1,22 +1,36 @@
 body{
     text-align: center;
+<<<<<<< HEAD
     background-color:darkgreen;
     color: white;
+=======
+    background-color: none;
+>>>>>>> origin/main
 }
 
 button{
     text-align: center;
     padding: 20px 30px 20px 30px;
     border-radius: 5px;
+<<<<<<< HEAD
     font-size: 50px;
     margin-top: 50px;
     background-color:darkgoldenrod;
 
+=======
+    font-size: 15px;
+    margin-top: 50px;
+>>>>>>> origin/main
     /* margin-left: 50%; */
 }
 
 span{
+<<<<<<< HEAD
     font-size: 100px;
     margin-top: 20px;
     font-weight: bold;
+=======
+    font-size: 50px;
+    margin-top: 20px;
+>>>>>>> origin/main
 }
